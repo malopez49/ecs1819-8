@@ -12,6 +12,6 @@ p {
 body {
   background-color: lightblue;
 }
-.jumbotron{
-  background-color:blue;
+#blue {
+  background-color: blue;
 }
